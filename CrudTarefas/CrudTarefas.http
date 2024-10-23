@@ -1,0 +1,6 @@
+@CrudTarefas_HostAddress = http://localhost:5277
+
+GET {{CrudTarefas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
